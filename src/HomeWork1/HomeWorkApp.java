@@ -1,4 +1,4 @@
-// Создать пустой проект в IntelliJ IDEA, создать класс HomeWorkApp, и прописать в нем метод main()
+package HomeWork1;// Создать пустой проект в IntelliJ IDEA, создать класс HomeWork1.HomeWorkApp, и прописать в нем метод main()
 
 public class HomeWorkApp {
     public static void main(String[] args) {
