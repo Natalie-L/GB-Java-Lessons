@@ -1,3 +1,5 @@
+package HomeWork3;
+
 public class HomeWork03 {
     public static void main(String[] args) {
     /* 1) Задать целочисленный массив, состоящий из элементов 0 и 1.

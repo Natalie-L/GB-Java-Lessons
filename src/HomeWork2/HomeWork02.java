@@ -1,3 +1,5 @@
+package HomeWork2;
+
 public class HomeWork02 {
     public static void main(String[] args) {
         System.out.println(sumInterval(10, 13));
